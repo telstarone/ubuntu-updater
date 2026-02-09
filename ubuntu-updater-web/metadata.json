@@ -1,0 +1,5 @@
+{
+  "name": "Ubuntu Update Script Generator",
+  "description": "An application that generates custom Bash or Python scripts to automate Ubuntu server updates and configure notifications for Email, WhatsApp, or Telegram.",
+  "requestFramePermissions": []
+}
